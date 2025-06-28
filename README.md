@@ -1,36 +1,19 @@
-# Smart-Plant-Disease-Scanner_
-🌿 Smart Plant Disease Scanner
-A mobile application that helps farmers and plant enthusiasts detect plant diseases using AI-powered image recognition. Built with Flutter, TensorFlow Lite, and Firebase, this app scans plant images, identifies diseases, and provides treatment suggestions — even offline!
+# PlantHealthScanner
 
-🔧 Tech Stack
-Flutter (Dart) – for cross-platform UI
+A new Flutter project created with FlutLab - https://flutlab.io
 
-TensorFlow Lite (TFLite) – for on-device AI model inference
+## Getting Started
 
-Firebase Firestore – to store scan history and user data
+A few resources to get you started if this is your first Flutter project:
 
-Firebase Authentication – login via Google/Email
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
 
-Offline Support – disease detection and weather data accessible without internet
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-📱 Features
-📸 Plant Disease Detection
-Upload or capture plant images and get instant AI-based disease diagnosis.
+## Getting Started: FlutLab - Flutter Online IDE
 
-💊 Treatment Suggestions
-View tailored recommendations for treating the detected disease.
-
-📚 Scan History
-Automatically stores previous scans in the user's account (Firestore).
-
-🔐 User Authentication
-Supports Google or Email login for a personalized experience.
-
-📶 Offline AI Model
-Detect diseases without internet access using a lightweight on-device TFLite model.
-
-🌤️ Weather Info + Crop Calendar
-Integrated tools to support farmers in making data-driven decisions.
-
-📝 Farmer Notes
-Save personalized notes or observations for your crops.
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
